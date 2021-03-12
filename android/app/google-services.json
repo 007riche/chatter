@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503972881861",
+    "project_id": "flutte-e3d55",
+    "storage_bucket": "flutte-e3d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503972881861:android:5ba030536411c98db017ac",
+        "android_client_info": {
+          "package_name": "com.example.ChatTER"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503972881861-8tbglncqil1b0oqs93uto0usqt3de2lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqKsJH55csPycQIBZnpb5RXKuq9BJ64M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503972881861-8tbglncqil1b0oqs93uto0usqt3de2lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
